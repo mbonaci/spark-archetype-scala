@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 25 01:14:39 CEST 2015
+spark-archetype-scala-0.9.jar>=
+spark-archetype-scala-0.9.pom>=

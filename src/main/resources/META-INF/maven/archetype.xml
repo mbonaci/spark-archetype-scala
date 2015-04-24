@@ -1,0 +1,12 @@
+
+<archetype>
+  <id>spark-archetype-scala</id>
+  <sources>
+    <source>src/main/scala/App.scala</source>
+  </sources>
+  <testSources>
+    <source>src/test/scala/AppTest.scala</source>
+    <source>src/test/scala/MySpec.scala</source>
+    <source>src/test/scala/ScalaTestExamples.scala</source>
+  </testSources>
+</archetype>
