@@ -1,7 +1,7 @@
 ### Maven archetype to scaffold a new Spark Scala project
 
 ### To generate a new project
-Since **IntelliJ IDEA** doesn't distinguish between _archetype catalog_ and _archetype repository_ when you try to add remote archetype, you should first use interactive or batch mode in terminal to generate a new project then import it in Idea as existing maven project.  
+Since **IntelliJ IDEA** doesn't distinguish between _archetype catalog_ and _archetype repository_ when you try to add remote archetype, you should first use interactive or batch mode (see below) in terminal to generate a new project then import it in Idea as existing maven project.  
 
  * In **Eclipse**  
 1. `File > New > Project... > Maven > Maven Project`  
