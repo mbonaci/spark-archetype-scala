@@ -3,7 +3,7 @@
 ### To generate a new project
 Since **IntelliJ IDEA** doesn't distinguish between _archetype catalog_ and _archetype repository_ when you try to add remote archetype, you should first use interactive or batch mode (see below) in terminal to generate a new project then import it in Idea as existing maven project.  
 
- * In **Eclipse**  
+ * In **Eclipse** (requires [ScalaIDE](http://scala-ide.org/download/current.html) and [m2e-scala](https://github.com/sonatype/m2eclipse-scala))  
 1. `File > New > Project... > Maven > Maven Project`  
 2. Click `Next` on the first screen of the _New project_ wizard  
 3. Select `Configure... > Add Remote Catalog...`  
