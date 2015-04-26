@@ -39,7 +39,7 @@ mvn archetype:generate -B \
     -DarchetypeRepository=https://github.com/mbonaci/spark-archetype-scala/raw/master \
     -DarchetypeGroupId=org.sia \
     -DarchetypeArtifactId=spark-archetype-scala \
-    -DarchetypeVersion=0.8 \
+    -DarchetypeVersion=0.9 \
     -DgroupId=com.company -DartifactId=project -Dversion=0.1-SNAPSHOT -Dpackage=com.company
 ```
 
