@@ -42,7 +42,11 @@ mvn archetype:generate -B \
     -DarchetypeVersion=0.9 \
     -DgroupId=com.company -DartifactId=project -Dversion=0.1-SNAPSHOT -Dpackage=com.company
 ```
+For your convenience, here's the copy/paste friendly version (customize your new project by changing the last 4 params):
 
+```
+mvn archetype:generate -B -DarchetypeCatalog=https://github.com/mbonaci/spark-archetype-scala/raw/master/archetype-catalog.xml -DarchetypeRepository=https://github.com/mbonaci/spark-archetype-scala/raw/master -DarchetypeGroupId=org.sia -DarchetypeArtifactId=spark-archetype-scala -DarchetypeVersion=0.8 -DgroupId=org.sijaset -DartifactId=sija -Dversion=0.1 -Dpackage=org.sijaset
+```
 
  * ***Generated project example usage*** *(run* `mvn scala:help` *for the full list of commands):*
 
